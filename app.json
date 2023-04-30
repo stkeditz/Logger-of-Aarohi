@@ -1,6 +1,6 @@
 {
 
-    "name": "VIP-BOT",
+    "name": "stkeditz",
 
     "description": "the telegram Autofilter bot",
 
@@ -10,9 +10,9 @@
 
     "stack": "container",
 
-    "website": "https://github.com/SANGRAM-MUSIC/Professor",
+    "website": "https://github.com/stkeditz/Logger-of-Aarohi",
 
-    "repository": "https://github.com/SANGRAM-MUSIC/Professor",
+    "repository": "https://github.com/stkeditz/Logger-of-Aarohi",
 
     "env": {
 
