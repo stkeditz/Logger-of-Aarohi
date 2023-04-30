@@ -6,7 +6,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SANGRAM-MUSIC/Professor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stkeditz/Logger-of-Aarohi)
 
 
 
